@@ -31,7 +31,7 @@ int main(void)
 
     int N = 8;
 
-    double s = soma_integral(a, b, N, f1);
+    double s = soma_integral(a, b, N, f);
 
     printf("area = %g\n", s);
 
