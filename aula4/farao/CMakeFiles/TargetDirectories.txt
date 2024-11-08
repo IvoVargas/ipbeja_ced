@@ -1,0 +1,3 @@
+/home/alunos/tei/2024/tei5754/ipbeja_ced/aula4/CMakeFiles/farao.dir
+/home/alunos/tei/2024/tei5754/ipbeja_ced/aula4/CMakeFiles/edit_cache.dir
+/home/alunos/tei/2024/tei5754/ipbeja_ced/aula4/CMakeFiles/rebuild_cache.dir

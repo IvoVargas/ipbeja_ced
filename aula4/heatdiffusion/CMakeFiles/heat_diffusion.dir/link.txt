@@ -1,0 +1,1 @@
+/usr/bin/cc -fopenmp CMakeFiles/heat_diffusion.dir/heat_diffusion.c.o -o heat_diffusion 

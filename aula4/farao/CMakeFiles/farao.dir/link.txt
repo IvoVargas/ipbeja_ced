@@ -1,0 +1,1 @@
+/usr/bin/cc -fopenmp CMakeFiles/farao.dir/farao.c.o CMakeFiles/farao.dir/f.c.o -o farao 
