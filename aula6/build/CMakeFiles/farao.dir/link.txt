@@ -1,0 +1,1 @@
+/usr/bin/c++ -fopenmp -O3 CMakeFiles/farao.dir/farao.cpp.o CMakeFiles/farao.dir/heat_diffusion_2D.cpp.o -o farao 
